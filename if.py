@@ -10,9 +10,3 @@ else:
     print('Both equal')
 
 print(f'num1 is {num1}, and num2 is {num2}')
-
-
-
-
-
-

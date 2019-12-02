@@ -4,7 +4,6 @@ name = input('What is your name?: ')
 #ask for age
 age = int(input('How old are you?: '))
 
-
 #ask for cityS
 city = input('Where do you live?: ')
 

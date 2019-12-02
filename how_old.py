@@ -6,6 +6,4 @@ age = '150'
 
 output = {start}{age}{end}
 
-
 print(output)
-

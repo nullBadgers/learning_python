@@ -9,6 +9,3 @@ print(position)
 
 newPosition = (position + key) % 26
 print(newPosition)
-
-
-
